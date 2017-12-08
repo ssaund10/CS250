@@ -1,0 +1,51 @@
+1. General vocabulary
+(a) What is a parameter and an argument?
+		a parameter is the variable found in the parentheses of a function definition
+		an argument is what is passed to a function in a function call
+(b) In relation to Arrays, what is an element and what is an index?
+		an element is accessed with the index
+		element is the value
+		index is the position of an element
+		element = 56
+		index = arr[1]	
+2. Vectors
+http://www.cplusplus.com/reference/vector/vector/
+(a) What function of the vector class will erase all of its elements?
+		clear();
+(b) What two functions can you use to add items to a vector?
+		push_back();
+		insert();
+3. Lists
+http://www.cplusplus.com/reference/list/list/
+(a) What function gives you the size of the list?
+		size();
+(b) What function will reverse the items in a list?
+		reverse();
+4. Queues
+http://www.cplusplus.com/reference/queue/queue/
+(a) What is the function to add an item to the queue?
+		push();
+(b) What is the function to remove the front item from the queue?
+		pop();
+(c) What is the function to access the front item of the queue?
+		front();
+(d) What is the function to see whether the queue is empty?
+		empty();
+5. Stacks
+http://www.cplusplus.com/reference/stack/stack/
+(a) What is the function to add an item to the stack?
+		push();
+(b) What is the function to remove the top item from the stack?
+		pop();
+(c) What is the function to access the top item of the stack?
+		top();
+(d) How are stacks and queues different?
+		Stacks are first in last out, queues are first in first out.
+6. Maps
+http://www.cplusplus.com/reference/map/map/
+(a) What is a key ?
+		it is a value to uniquely identify an element in a table.
+(b) What is a value ?
+		a value is a stored content which can be accessed with a key
+(c) What are some other terms to refer to a map data structure?
+		binary search tree

@@ -1,0 +1,14 @@
+1. What are the four levels of exception safety?
+		No-throw guarantee
+		strong exception safety
+		basic exception safety
+		no exception safety
+2. How many catch blocks can there be with a single try block?
+		as many as you need
+3. Which exceptions are children of the logic error exception?
+		domain_error
+		invalid_argument
+		length_error
+		out_of_range
+		future_error
+4. Which exceptions are children of the runtime error exception?		range_error		overflow_error		underflow_error		system_error
